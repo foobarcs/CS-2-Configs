@@ -33,6 +33,3 @@ example: `find god` ->
 #### bind a key to spawn to specific position for jump/utils practice
 `getpos`  
 `bind mouse5 "setpos 2055.492432 -132.761276 356.093811;setang -0.088000 -179.466614 0.000000"`
-
-#### activate a c4 and extend c4 duration time in seconds
-`ent_create planted_c4_training; ent_fire planted_c4_training ActivateSetTimerLength 1200`
