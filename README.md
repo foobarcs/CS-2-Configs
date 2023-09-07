@@ -5,7 +5,6 @@
 [Volvo Counter-Strike Major Rulebook](https://github.com/ValveSoftware/counter-strike/blob/main/major-supplemental-rulebook.md)
 
 ------
-
 ### Filepath for configs
 
 ##### CS-2 config filepath
