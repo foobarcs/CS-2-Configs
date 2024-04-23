@@ -4,7 +4,7 @@
 - 32GB 6000MHz  
 
 ### Main
-- Pulsar Xlite V3 Size 3
+- Pulsar Xlite V3 Size 3 + 4K Dongle
 - Artisan FX Zero Soft
 - GMMK Pro
 - Razer BlackShark V2 Pro
