@@ -10,8 +10,8 @@
 
 | Advanced Video Settings | Value |
 | :---: | :-: |
-| Boost Player Contrast | Disabled |
-| Wait for Vertical Sync | Disabled |
+| Boost Player Contrast | DISABLED |
+| Wait for Vertical Sync | DISABLED |
 | Multisampling Anti-Aliasing Mode | 4X MSAA |
 | Global Shadow Quality | VERY HIGH |
 | Model / Texture Detail | LOW |
