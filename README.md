@@ -22,12 +22,14 @@ https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=730&issueid=128
 ------
 
 ### Miscellaneous commands
-#### `bind` command to find which key bind to what command
+#### command `cl_ticktiming print detail` to output CS2's latencies
+
+#### command `bind` to find which key bind to what command
 example: `bind o` -> `"o" = "toggle volume 0.01 0.25"`
 
-#### `find` command to locate a command related to specific keyword
+#### command `find` to locate a command related to specific keyword
 example: `find god` ->  
-` god        game cheat Toggle by default, or 0 to disable and 1 to enable. Player becomes invulnerable.`
+`god        game cheat Toggle by default, or 0 to disable and 1 to enable. Player becomes invulnerable.`
 
 #### bind a key to spawn to specific position for jump/utils practice
 `getpos`  
