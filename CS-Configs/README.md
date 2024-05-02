@@ -21,4 +21,4 @@
 | Ambient Occlusion | HIGH |
 | High Dynamic Range | QUALITY |
 | FidelityFX Super Resolution | DISABLED (HIGHEST QUALITY) |
-| Nvidia Reflex Low Latency | ENABLED + BOOST |
+| Nvidia Reflex Low Latency | DISABLED |
