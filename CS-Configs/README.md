@@ -18,7 +18,7 @@
 | Texture Filtering Mode | ANISOTROPIC 16X |
 | Shader Detail | LOW |
 | Particle Detail | LOW |
-| Ambient Occlusion | HIGH |
+| Ambient Occlusion | MEDIUM |
 | High Dynamic Range | QUALITY |
 | FidelityFX Super Resolution | DISABLED (HIGHEST QUALITY) |
 | NVIDIA Reflex Low Latency | ENABLED + BOOST |
