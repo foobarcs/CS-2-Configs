@@ -6,6 +6,6 @@
 ### Main
 - Pulsar Xlite V3 Size 3 + 4K Dongle
 - Artisan FX Zero Soft
-- GMMK Pro
+- Wooting 60HE+
 - Razer BlackShark V2 Pro
 - BenQ Zowie XL2546K
