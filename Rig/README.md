@@ -8,4 +8,4 @@
 - Artisan FX Zero Soft
 - Wooting 60HE+
 - Razer BlackShark V2 Pro
-- BenQ Zowie XL2546K
+- Zowie XL2546K
