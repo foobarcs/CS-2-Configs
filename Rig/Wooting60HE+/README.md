@@ -1,4 +1,4 @@
-#### Wooting keyboard profile:  
+#### Wooting keyboard profile code:  
 ```
 99870a8ab14d1476258c4b5f007e818b2e8e
 ```
