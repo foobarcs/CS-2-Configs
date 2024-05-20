@@ -1,7 +1,7 @@
 ![couter strike banner](https://i.ibb.co/8Yq6F8T/cs2-banner-for-faceit.jpg)
 
 
-#### Official Counter-Strike Major Supplemental Rulebook
+### Official Counter-Strike Major Supplemental Rulebook
 [Volvo Counter-Strike Major Rulebook](https://github.com/ValveSoftware/counter-strike/blob/main/major-supplemental-rulebook.md)
 
 ------
