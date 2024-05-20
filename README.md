@@ -35,7 +35,8 @@ example: `bind o` -> `"o" = "toggle volume 0.01 0.25"`
 locate a command related to a specific keyword  
 example: `find god` ->  `god game cheat Toggle by default, or 0 to disable and 1 to enable. Player becomes invulnerable.`  
 
-* `getpos and setpos`  
+* `getpos`  
 bind a key to spawn to a specific position for jump/utils practice  
-example: `getpos`  
+example:  
+`getpos` -> `setpos 2055.492432 -132.761276 356.093811;setang -0.088000 -179.466614 0.000000`  
 `bind mouse5 "setpos 2055.492432 -132.761276 356.093811;setang -0.088000 -179.466614 0.000000"`
