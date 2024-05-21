@@ -6,7 +6,7 @@
 
 ------
 
-#### CS2 config filepath
+### CS2 config filepath
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
