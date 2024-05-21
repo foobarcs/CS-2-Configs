@@ -5,9 +5,8 @@
 [Volvo Counter-Strike Major Rulebook](https://github.com/ValveSoftware/counter-strike/blob/main/major-supplemental-rulebook.md)
 
 ------
-### Filepath for configs
 
-##### CS-2 config filepath
+#### CS2 config filepath
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
@@ -17,9 +16,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\ga
 ### Token and authentication code
 [Game server login token for creating public/private Counter-Strike server](https://steamcommunity.com/dev/managegameservers)
 
-
 [Authentication code for accessing Counter-Strike match history (Leetify for example)](https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=730&issueid=128)
-
 
 ------
 
