@@ -15,15 +15,15 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\ga
 ------
 
 ### Token and authentication code
-#### Game server login token for creating public/private Counter-Strike server
-https://steamcommunity.com/dev/managegameservers
+[Game server login token for creating public/private Counter-Strike server](https://steamcommunity.com/dev/managegameservers)
 
-#### Authentication code for accessing Counter-Strike match history (Leetify for example)
-https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=730&issueid=128
+
+[Authentication code for accessing Counter-Strike match history (Leetify for example)](https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=730&issueid=128)
+
 
 ------
 
-### commands
+### Commands
 * `cl_ticktiming print detail`  
 print out CS2's latencies in console
 
