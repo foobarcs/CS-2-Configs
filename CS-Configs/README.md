@@ -24,7 +24,9 @@
 | NVIDIA Reflex Low Latency | ENABLED + BOOST |
 
 ---
-[CS2 FPS BENCHMARK](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604)
+[CS2 FPS BENCHMARK](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604)  
+NVIDIA version: 552.44  
+Build ID: 14470938
 ```
 [VProf] 
 [VProf] -- Performance report --
