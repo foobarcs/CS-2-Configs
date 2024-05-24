@@ -25,7 +25,6 @@
 
 ---
 [CS2 FPS BENCHMARK](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604)
-#### CS2 version: 
 ```
 [VProf] 
 [VProf] -- Performance report --
