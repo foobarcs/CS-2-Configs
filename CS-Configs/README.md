@@ -13,7 +13,8 @@
 | Boost Player Contrast | DISABLED |
 | Wait for Vertical Sync | DISABLED |
 | Multisampling Anti-Aliasing Mode | 4X MSAA |
-| Global Shadow Quality | VERY HIGH |
+| Global Shadow Quality | HIGH |
+| Dynamic Shadows | ALL |
 | Model / Texture Detail | LOW |
 | Texture Filtering Mode | ANISOTROPIC 16X |
 | Shader Detail | LOW |
