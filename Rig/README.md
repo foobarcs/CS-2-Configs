@@ -7,5 +7,5 @@
 - Pulsar Xlite V3 Size 3 + 4K Dongle
 - Artisan FX Zero Soft
 - Wooting 60HE+
-- Razer BlackShark V2 Pro / Shure MV7+
+- IEM: Dumu Vulkan / Mic: Shure MV7+
 - Zowie XL2546K
