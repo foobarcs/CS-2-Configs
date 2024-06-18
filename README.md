@@ -1,5 +1,18 @@
 ![couter strike banner](https://i.ibb.co/8Yq6F8T/cs2-banner-for-faceit.jpg)
 
+### Specs
+- 7800X3D  
+- 4080 Super  
+- 32GB 6000MHz  
+
+### Main
+- Pulsar Xlite V3 Size 3 + 4K Dongle
+- Artisan FX Zero Soft
+- Wooting 60HE+
+- Zowie XL2546K
+- IEM: Dunu Vulkan / Mic: Shure MV7+
+---
+
 | Video Settings | Value |
 | :---: | :-: |
 | Brightness | 93% |
