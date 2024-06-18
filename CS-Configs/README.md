@@ -1,7 +1,3 @@
-### Official Counter-Strike Major Supplemental Rulebook
-[Volvo Counter-Strike Major Rulebook](https://github.com/ValveSoftware/counter-strike/blob/main/major-supplemental-rulebook.md)
-
-------
 
 ### CS2 config filepath
 ```
@@ -34,3 +30,9 @@ bind a key to spawn to a specific position for jump/utils practice
 example:  
 `getpos` -> `setpos 2055.492432 -132.761276 356.093811;setang -0.088000 -179.466614 0.000000`  
 `bind mouse5 "setpos 2055.492432 -132.761276 356.093811;setang -0.088000 -179.466614 0.000000"`
+
+------
+### Official Counter-Strike Major Supplemental Rulebook
+[Volvo Counter-Strike Major Rulebook](https://github.com/ValveSoftware/counter-strike/blob/main/major-supplemental-rulebook.md)
+
+
