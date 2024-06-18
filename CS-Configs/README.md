@@ -29,31 +29,30 @@
 
 ```
 NVIDIA version: 552.44  
-Build ID: 14470938
+Build ID: 14748583
 
-[VProf] 
 [VProf] -- Performance report --
-[VProf] Summary of 88986 frames.  (6070 frames excluded from analysis.)
-[VProf] FPS: Avg=777.8, P1=329.3
+[VProf] Summary of 89050 frames.  (6059 frames excluded from analysis.)
+[VProf] FPS: Avg=778.7, P1=322.7
 [VProf] 
 [VProf]                         All frames         Active frames   
 [VProf]                           Avg    P99        N    Avg    P99
 [VProf] ---------------------- ------ ------   ------ ------ ------
-[VProf]             FrameTotal   1.29   3.04    88986   1.29   3.04
-[VProf]         Frame Boundary   0.61   0.90    88986   0.61   0.90
-[VProf]       Client Rendering   0.34   0.58    88986   0.34   0.58
-[VProf]      Client Simulation   0.19   0.62    88986   0.19   0.62
-[VProf]             Prediction   0.08   0.40    88986   0.08   0.40
-[VProf]      Server Simulation   0.07   1.04     7316   0.86   1.36
-[VProf]            Unaccounted   0.06   0.27    88986   0.06   0.27
-[VProf]            Server Game   0.06   0.85     7316   0.69   1.11
-[VProf]             PanoramaUI   0.05   0.10    88986   0.05   0.10
-[VProf]           UserCommands   0.02   0.33     7316   0.29   0.55
-[VProf] Server Send Networking   0.01   0.14     7316   0.12   0.20
-[VProf]       Server Animation   0.01   0.13     7316   0.11   0.17
-[VProf]                   NPCs   0.01   0.19     7316   0.11   0.28
-[VProf]       Client_Animation   0.01   0.13     7316   0.10   0.18
-[VProf]                  Magic   0.00   0.00      330   0.14   0.38
+[VProf]             FrameTotal   1.28   3.10    89050   1.28   3.10
+[VProf]       Client Rendering   0.85   1.08    89050   0.85   1.08
+[VProf]         Frame Boundary   0.61   0.89    89050   0.61   0.89
+[VProf]      Client Simulation   0.19   0.60    89050   0.19   0.60
+[VProf]             Prediction   0.08   0.40    89050   0.08   0.40
+[VProf]      Server Simulation   0.07   1.04     7315   0.87   1.27
+[VProf]            Server Game   0.06   0.84     7315   0.70   1.14
+[VProf]             PanoramaUI   0.05   0.11    89050   0.05   0.11
+[VProf]            Unaccounted   0.04   0.20    89050   0.04   0.20
+[VProf]           UserCommands   0.02   0.33     7315   0.30   0.58
+[VProf] Server Send Networking   0.01   0.14     7315   0.12   0.21
+[VProf]       Server Animation   0.01   0.13     7315   0.12   0.16
+[VProf]                   NPCs   0.01   0.20     7315   0.11   0.26
+[VProf]       Client_Animation   0.01   0.13     7315   0.11   0.18
+[VProf]                  Magic   0.00   0.00      330   0.13   0.40
 [VProf] 
 [VProf] VProfLite stopped.
 ```
