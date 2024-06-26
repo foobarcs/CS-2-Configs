@@ -26,7 +26,10 @@
 | Advanced Video Settings | Value |
 | :---: | :-: |
 | Boost Player Contrast | DISABLED |
-| Wait for Vertical Sync | DISABLED |
+| V-Sync | DISABLED |
+| NVIDIA Reflex Low Latency | ENABLED + BOOST |
+| Maximum FPS In Game | 999 |
+| Maximum FPS In Menus | 200 |
 | Multisampling Anti-Aliasing Mode | 4X MSAA |
 | Global Shadow Quality | HIGH |
 | Dynamic Shadows | ALL |
@@ -37,7 +40,6 @@
 | Ambient Occlusion | MEDIUM |
 | High Dynamic Range | QUALITY |
 | FidelityFX Super Resolution | DISABLED (HIGHEST QUALITY) |
-| NVIDIA Reflex Low Latency | ENABLED + BOOST |
 
 ---
 [CS2 FPS BENCHMARK](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604)  
