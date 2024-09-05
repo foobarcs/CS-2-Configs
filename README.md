@@ -6,7 +6,7 @@
 - 32GB 6000MHz  
 
 ### Main
-- Pulsar Xlite V3 Size 3 + 4K Dongle
+- Pulsar Xlite V3 Size 3 (Supergrip) + 4K Dongle
 - Artisan FX Zero Soft
 - Wooting 60HE+
 - Zowie XL2546K
