@@ -31,7 +31,7 @@
 | Maximum FPS In Game | 999 |
 | Maximum FPS In Menus | 240 |
 | Multisampling Anti-Aliasing Mode | 4X MSAA |
-| Global Shadow Quality | LOW |
+| Global Shadow Quality | HIGH |
 | Dynamic Shadows | ALL |
 | Model / Texture Detail | LOW |
 | Texture Filtering Mode | ANISOTROPIC 16X |
