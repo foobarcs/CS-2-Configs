@@ -7,7 +7,7 @@
 
 ### Main
 - Pulsar Xlite V3 Size 3 (Supergrip) + 4K Dongle
-- Artisan FX Zero Soft
+- LGG Jupiter Pro V2 XSoft
 - Wooting 60HE+
 - Zowie XL2546K
 - IEM: Dunu Vulkan / Mic: Shure MV7+
