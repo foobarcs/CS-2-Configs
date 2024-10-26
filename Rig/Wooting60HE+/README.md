@@ -1,6 +1,6 @@
 #### Wooting keyboard profile code:  
 ```
-398ca5a6463fd64606615288b352b4f6dd34
+690988bad808b85f6cb53253a0a9cb934fff
 ```
 ![wooting60HE+](https://i.ibb.co/TL3gnjZ/wooting.png)
 
