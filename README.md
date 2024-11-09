@@ -47,30 +47,31 @@
 ```
 OS: Windows 11 Pro (KB 5041587)
 NVIDIA version: 552.44  
-Build ID: 15656858
+Build ID: 16333861
+
 
 [VProf] -- Performance report --
-[VProf] Summary of 92362 frames.  (6477 frames excluded from analysis.)
-[VProf] FPS: Avg=807.5, P1=316.9
+[VProf] Summary of 93067 frames.  (6560 frames excluded from analysis.)
+[VProf] FPS: Avg=813.6, P1=283.5
 [VProf] 
 [VProf]                         All frames         Active frames   
 [VProf]                           Avg    P99        N    Avg    P99
 [VProf] ---------------------- ------ ------   ------ ------ ------
-[VProf]             FrameTotal   1.24   3.16    92362   1.24   3.16
-[VProf]       Client Rendering   0.85   1.14    92362   0.85   1.14
-[VProf]         Frame Boundary   0.61   0.94    92362   0.61   0.94
-[VProf]      Client Simulation   0.16   0.75    92362   0.16   0.75
-[VProf]      Server Simulation   0.07   1.04     7313   0.87   1.36
-[VProf]             Prediction   0.06   0.50    92362   0.06   0.50
-[VProf]            Server Game   0.05   0.84     7313   0.69   1.16
-[VProf]                    HUD   0.05   0.09    92362   0.05   0.09
-[VProf]             PanoramaUI   0.05   0.07    92362   0.05   0.07
-[VProf]           UserCommands   0.02   0.34     7313   0.29   0.58
-[VProf]       Server Animation   0.01   0.13     7313   0.11   0.17
-[VProf] Server Send Networking   0.01   0.14     7313   0.11   0.19
-[VProf]       Client_Animation   0.01   0.13     7313   0.11   0.17
-[VProf]                   NPCs   0.01   0.19     7313   0.10   0.23
-[VProf]                  Magic   0.00   0.00      330   0.13   0.41
+[VProf]             FrameTotal   1.23   3.53    93067   1.23   3.53
+[VProf]       Client Rendering   0.80   1.20    93067   0.80   1.20
+[VProf]         Frame Boundary   0.54   0.93    93067   0.54   0.93
+[VProf]      Client Simulation   0.18   0.90    93067   0.18   0.90
+[VProf]    ClientSimulateFrame   0.14   0.30    93067   0.14   0.30
+[VProf]      Server Simulation   0.08   1.19     7313   0.97   1.51
+[VProf]            Server Game   0.06   0.96     7313   0.78   1.35
+[VProf]             Prediction   0.06   0.53    93067   0.06   0.53
+[VProf]                    HUD   0.05   0.12    93067   0.05   0.12
+[VProf]     ClientSimulateTick   0.03   0.57     7313   0.42   0.69
+[VProf]           UserCommands   0.02   0.37     7313   0.31   0.61
+[VProf]       Client_Animation   0.01   0.18     7313   0.16   0.25
+[VProf]       Server Animation   0.01   0.14     7313   0.12   0.20
+[VProf] Server Send Networking   0.01   0.12     7313   0.11   0.19
+[VProf]                   NPCs   0.01   0.20     7313   0.11   0.30
 [VProf] 
 [VProf] VProfLite stopped.
 ```
