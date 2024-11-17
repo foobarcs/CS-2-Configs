@@ -2,7 +2,7 @@
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
-### CS2 annotation filepath
+### CS2 annotations filepath
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\annotations
 ```
