@@ -1,0 +1,305 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	MapName = "de_ancient"
+	ScreenText = 
+	{
+	}
+	MapAnnotationNode0 = 
+	{
+		Enabled = true
+		Type = "position"
+		Id = "c45342a6-49b4-402d-a535-ef83d1909dbd"
+		SubType = "main"
+		Position = [ -410.326294, -2128.045898, -153.664551 ]
+		Angles = [ 0.0, 92.099762, 0.0 ]
+		VisiblePfx = true
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 60.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "stand behind the pillar"
+			FontSize = 125
+			FadeInDist = 600.0
+			FadeOutDist = 40.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 300.0
+			FadeOutDist = 40.0
+		}
+	}
+	MapAnnotationNode1 = 
+	{
+		Enabled = true
+		Type = "spot"
+		Id = "20eaf1b3-56a5-435a-a9d4-f6408ab04fd7"
+		SubType = "main"
+		Position = [ -410.43811, -2128.055176, -153.664551 ]
+		Angles = [ 0.0, 92.055817, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 125
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode2 = 
+	{
+		Enabled = true
+		Type = "spot"
+		Id = "a49c40bb-ab5f-4c16-9db0-170c4d0c32e9"
+		SubType = "aim_target"
+		Position = [ -413.591705, -2040.203491, -42.157524 ]
+		Angles = [ -28.468159, 92.055855, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, -10.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "20eaf1b3-56a5-435a-a9d4-f6408ab04fd7"
+	}
+	MapAnnotationNode3 = 
+	{
+		Enabled = true
+		Type = "grenade"
+		Id = "fc0a0e0b-4cd0-4f60-9fbf-807d0d346020"
+		SubType = "main"
+		Position = [ -410.43811, -2128.055176, -153.664551 ]
+		Angles = [ 0.0, 92.055817, 0.0 ]
+		VisiblePfx = true
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 60.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "red room smoke from right side"
+			FontSize = 125
+			FadeInDist = 600.0
+			FadeOutDist = 40.0
+		}
+		Desc = 
+		{
+			Text = "standing instructions"
+			FontSize = 75
+			FadeInDist = 300.0
+			FadeOutDist = 40.0
+		}
+		StreakLimitGuidesOn = 2
+		StreakLimitGuidesOff = 2
+		JumpThrow = false
+	}
+	MapAnnotationNode4 = 
+	{
+		Enabled = true
+		Type = "grenade"
+		Id = "291f9584-ee39-4b7d-8ad4-c0e6c422a386"
+		SubType = "aim_target"
+		Position = [ -413.727997, -2040.171875, -42.22504 ]
+		Angles = [ -28.424162, 92.143852, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "red room smoke from right side"
+			FontSize = 125
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = "aim instructions"
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "fc0a0e0b-4cd0-4f60-9fbf-807d0d346020"
+	}
+	MapAnnotationNode5 = 
+	{
+		Enabled = true
+		Type = "grenade"
+		Id = "1d6715fc-a913-4539-850d-f57679e95bc6"
+		SubType = "destination"
+		Position = [ -494.92392, 224.993561, 164.273117 ]
+		Angles = [ -28.424162, 92.143852, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "fc0a0e0b-4cd0-4f60-9fbf-807d0d346020"
+		DistanceThreshold = 80.0
+	}
+	MapAnnotationNode6 = 
+	{
+		Enabled = true
+		Type = "grenade"
+		Id = "9e4ee1a2-7b08-48d7-8d8e-335bc8c535f1"
+		SubType = "main"
+		Position = [ -622.65918, -2128.351318, -153.289551 ]
+		Angles = [ 0.0, 92.453369, 0.0 ]
+		VisiblePfx = true
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 60.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "red room smoke from left side"
+			FontSize = 125
+			FadeInDist = 600.0
+			FadeOutDist = 40.0
+		}
+		Desc = 
+		{
+			Text = "standing instructions"
+			FontSize = 75
+			FadeInDist = 300.0
+			FadeOutDist = 40.0
+		}
+		StreakLimitGuidesOn = 2
+		StreakLimitGuidesOff = 2
+		JumpThrow = false
+	}
+	MapAnnotationNode7 = 
+	{
+		Enabled = true
+		Type = "grenade"
+		Id = "83ae78d7-dd05-4bd9-9805-531eb72ddd11"
+		SubType = "aim_target"
+		Position = [ -618.588867, -2040.427612, -41.985229 ]
+		Angles = [ -28.336126, 87.349449, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "red room smoke from left side"
+			FontSize = 125
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = "aim instructions"
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "9e4ee1a2-7b08-48d7-8d8e-335bc8c535f1"
+	}
+	MapAnnotationNode8 = 
+	{
+		Enabled = true
+		Type = "grenade"
+		Id = "e3a5656f-a072-48ec-af18-612221ca0d22"
+		SubType = "destination"
+		Position = [ -511.82251, 225.810913, 164.215607 ]
+		Angles = [ -28.336126, 87.349449, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "9e4ee1a2-7b08-48d7-8d8e-335bc8c535f1"
+		DistanceThreshold = 80.0
+	}
+	MapAnnotationNode9 = 
+	{
+		Enabled = true
+		Type = "position"
+		Id = "0ff27eaa-fb45-4fa4-95e2-cbbba5a1b44e"
+		SubType = "main"
+		Position = [ -622.431274, -2128.027588, -153.289551 ]
+		Angles = [ 0.0, 88.095245, 0.0 ]
+		VisiblePfx = true
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 60.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "stand behind the pillar"
+			FontSize = 125
+			FadeInDist = 600.0
+			FadeOutDist = 40.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 300.0
+			FadeOutDist = 40.0
+		}
+	}
+}
