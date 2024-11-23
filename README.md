@@ -88,7 +88,7 @@ Build ID: 16333861
 
 | ![unstable frametime](https://i.ibb.co/J7gVBxR/stable-frametime.png) | 
 |:--:| 
-| *G-Sync: Enabled, VSync: Fast, NVCAP: 224 , Low Latency Mode: ON, -noreflex in launch option <br> barely any frametime spikes during FPS benchmark test* |  
+| *G-Sync: Enabled, VSync: Fast, NVCAP: 224 , Low Latency Mode: ON, fps_max 0 -noreflex in launch option <br> barely any frametime spikes during FPS benchmark test* |  
 
 
 ### To find out the best settings for your PC specs. [Download CapFrameX](https://www.capframex.com/download) run the test and capture the frametime.
