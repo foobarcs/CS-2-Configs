@@ -75,3 +75,17 @@ Build ID: 16333861
 [VProf] 
 [VProf] VProfLite stopped.
 ```
+
+---
+### *High FPS not always equal smooth gameplay*
+### *A stable frametime throughout the game will delivered a better gameplay*<br><br>
+
+
+
+| ![unstable frametime](https://i.ibb.co/sy0vdL1/unstable-frametime.png) | 
+|:--:| 
+| *fps_max 999, NVIDIA Reflex Enabled + Boost* |
+
+| ![unstable frametime](https://i.ibb.co/J7gVBxR/stable-frametime.png) | 
+|:--:| 
+| *G-Sync: Enabled, VSync: Fast, NVCAP: 224 , Low Latency Mode: ON |
