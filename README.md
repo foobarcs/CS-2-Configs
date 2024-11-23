@@ -77,15 +77,18 @@ Build ID: 16333861
 ```
 
 ---
-### *High FPS not always equal smooth gameplay*
-### *A stable frametime throughout the game will delivered a better gameplay*<br><br>
+### *High FPS not always equal smooth gameplay in CS2*
+### *A stable frametime throughout the game will delivered a smoother gameplay experience*<br><br>
 
 
 
 | ![unstable frametime](https://i.ibb.co/sy0vdL1/unstable-frametime.png) | 
 |:--:| 
-| *fps_max 999, NVIDIA Reflex Enabled + Boost* |
+| *fps_max 999, NVIDIA Reflex Enabled + Boost <br> Constant frametime spikes during FPS benchmark test* |
 
 | ![unstable frametime](https://i.ibb.co/J7gVBxR/stable-frametime.png) | 
 |:--:| 
-| *G-Sync: Enabled, VSync: Fast, NVCAP: 224 , Low Latency Mode: ON |
+| *G-Sync: Enabled, VSync: Fast, NVCAP: 224 , Low Latency Mode: ON, -noreflex in launch option <br> barely any frametime spikes during FPS benchmark test* |  
+
+
+### To find out the best settings for your PC specs. [Download CapFrameX](https://www.capframex.com/download) run the test and capture the frametime.
