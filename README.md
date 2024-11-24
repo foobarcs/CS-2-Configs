@@ -92,4 +92,4 @@ Build ID: 16333861
 
 
 ### To find out the best settings for your PC specs. Download [CapFrameX](https://www.capframex.com/download) run the FPS Benchmark and capture the frametime.
-### Additional test can be done on WarmupServer and Official MM or FACEIT
+### Additional test can be done on WarmupServer, Official MM or FACEIT.
