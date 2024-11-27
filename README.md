@@ -86,9 +86,15 @@ Build ID: 16333861
 |:--:| 
 | *fps_max 999, NVIDIA Reflex Enabled + Boost <br> Constant frametime spikes during FPS benchmark test* |
 
-| ![unstable frametime](https://i.ibb.co/J7gVBxR/stable-frametime.png) | 
+| ![stable frametime](https://i.ibb.co/J7gVBxR/stable-frametime.png) | 
 |:--:| 
 | *G-Sync: Enabled, VSync: Fast, NVCAP: 224 , Low Latency Mode: ON, fps_max 0, -noreflex in launch option <br> Barely any noticeable frametime spikes during FPS benchmark test* |  
+
+| ![stable frametime with HAGS, Game Bar and Game Mode OFF](https://i.ibb.co/SJTvbB1/HAGS-GAMEMODE-GAMEBAR-OFF.png) | 
+|:--:| 
+| *G-Sync: Enabled, VSync: Fast, NVCAP: 224 , Low Latency Mode: ON, fps_max 0, -noreflex in launch option <br> HAGS: Off, Game Mode: Off and Game Bar: Off can delivered the highest 1% and 0.1%* |  
+
+
 
 
 ### To find out the best settings for your PC specs. Download [CapFrameX](https://www.capframex.com/download) run the FPS Benchmark and capture the frametime.
