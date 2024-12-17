@@ -9,7 +9,7 @@
 - Pulsar Xlite V3 Size 3 (Supergrip) + 4K Dongle
 - LGG Jupiter Pro V2 XSoft
 - Wooting 60HE+
-- AUS PG27AQDP
+- ASUS ROG Swift PG27AQDP
 - IEM: Dunu Vulkan / Mic: Shure MV7+
 ---
 
