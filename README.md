@@ -17,7 +17,7 @@
 | :---: | :-: |
 | Brightness | 93% |
 | Aspect Ratio | 4:3 |
-| Resolution | 1280x960 |
+| Resolution | 1440x1080 |
 | Scaling Mode | Stretched |
 | Display Mode | Fullscreen |
 
