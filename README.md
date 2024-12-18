@@ -27,9 +27,9 @@
 | :---: | :-: |
 | Boost Player Contrast | DISABLED |
 | V-Sync | DISABLED |
-| NVIDIA Reflex Low Latency | ENABLED + BOOST |
-| Maximum FPS In Game | 999 |
-| Maximum FPS In Menus | 240 |
+| NVIDIA Reflex Low Latency | *-noreflex in launch option* |
+| Maximum FPS In Game | 0 |
+| Maximum FPS In Menus | 480 |
 | Multisampling Anti-Aliasing Mode | 4X MSAA |
 | Global Shadow Quality | LOW |
 | Dynamic Shadows | ALL |
