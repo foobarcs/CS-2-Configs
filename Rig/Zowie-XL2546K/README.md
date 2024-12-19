@@ -1,4 +1,4 @@
-### XL2546K  
+### ~~XL2546K~~ -> i've switch to ASUS PG27AQDP
 - Mode: Gamer 1  
 - Dyac: Premium  
 - AMA: Premium  
