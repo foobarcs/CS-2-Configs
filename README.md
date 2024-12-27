@@ -98,4 +98,4 @@ Build ID: 16333861
 
 
 ### To find out the best settings for your PC specs. Download [CapFrameX](https://www.capframex.com/download) run the FPS Benchmark and capture the frametime.
-### Additional test can be done on WarmupServer, Official MM or FACEIT.
+### I personally find [WarmUp Server](https://www.warmupserver.net) are the most optmised server to test frame time or the smoothness of CS2.
