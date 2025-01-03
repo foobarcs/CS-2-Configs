@@ -4,3 +4,4 @@
 ```
 ![wooting60HE+](https://i.ibb.co/TL3gnjZ/wooting.png)
 
+#### Switches: GEON RAW HE 50G
