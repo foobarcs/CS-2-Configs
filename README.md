@@ -95,9 +95,7 @@ Build ID: 16333861
 ---
 ### *High FPS not always equal smooth gameplay in CS2*
 ### *A stable frametime without significant frame spike and ideally the in-game 1% low should be close to your monitor’s refresh rate to achieve the buttery smooth gameplay experience in CS.*
-<br><br>
-
-
+<br>
 
 | ![unstable frametime](https://i.ibb.co/sy0vdL1/unstable-frametime.png) | 
 |:--:| 
