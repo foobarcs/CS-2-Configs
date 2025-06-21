@@ -78,7 +78,7 @@ Build ID: 16333861
 
 ---
 ### *High FPS not always equal smooth gameplay in CS2*
-### *A stable frametime throughout the game will delivered a smoother gameplay experience*<br><br>
+### *A stable frametime throughout the game will deliver a smoother gameplay experience*<br><br>
 
 
 
