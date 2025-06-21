@@ -31,7 +31,7 @@
 | V-Sync | DISABLED |
 | NVIDIA Reflex Low Latency | *-noreflex in launch option* |
 | Maximum FPS In Game | 0 |
-| Maximum FPS In Menus | 480 |
+| Maximum FPS In Menus | 450 |
 | Multisampling Anti-Aliasing Mode | 4X MSAA |
 | Global Shadow Quality | LOW |
 | Dynamic Shadows | ALL |
@@ -52,7 +52,7 @@
 | Low Latency Mode | ULTRA |
 | Max Frame Rate | 450 *(set at 6% below monitor referesh rate)* |
 | Power management mode | Prefer maximum performance |
-| Text filtering - Anisatropic sample optimization | On|
+| Text filtering - Anisotropic sample optimization | On|
 | Text filtering - Quality | High performance |
 | Text filtering - Trilinear optimization | On |
 | Vertical sync | On |
