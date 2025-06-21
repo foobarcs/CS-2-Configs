@@ -13,6 +13,8 @@
 - IEM: Dunu Vulkan / Mic: Shure MV7+
 ---
 
+### CS2 In-game Video Settings
+
 | Video Settings | Value |
 | :---: | :-: |
 | Brightness | 93% |
@@ -42,6 +44,20 @@
 | FidelityFX Super Resolution | DISABLED (HIGHEST QUALITY) |
 
 ---
+
+### NVIDIA Control Panel Settings
+
+| NVIDIA Control Panel | Value |
+| :---: | :-: |
+| Low Latency Mode | ULTRA |
+| Max Frame Rate | 450 *(set at 6% below monitor referesh rate)* |
+| Power management mode | Prefer maximum performance |
+| Text filtering - Anisatropic sample optimization | On|
+| Text filtering - Quality | High performance |
+| Text filtering - Trilinear optimization | On |
+| Vertical sync | On |
+
+--- 
 [CS2 FPS BENCHMARK](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604)  
 
 ```
