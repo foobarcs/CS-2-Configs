@@ -50,7 +50,7 @@
 | NVIDIA Control Panel | Value |
 | :---: | :-: |
 | Low Latency Mode | ULTRA |
-| Max Frame Rate | 450 *(set at 6% below monitor referesh rate)* |
+| Max Frame Rate | *(set at 6% below monitor referesh rate)* |
 | Power management mode | Prefer maximum performance |
 | Text filtering - Anisotropic sample optimization | On|
 | Text filtering - Quality | High performance |
