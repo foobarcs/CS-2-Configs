@@ -10,6 +10,11 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\ga
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\replays
 ```
+
+### CS2 Steam Game Recording filepath
+```
+C:\Program Files (x86)\Steam\userdata\{SteamID}\gamerecordings
+```
 ------
 
 ### Token and authentication code
