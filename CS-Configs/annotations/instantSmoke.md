@@ -7,7 +7,7 @@ bind 0 "setpos 1216.000000 -211.000000 -101.000809;setang -7.931411 -172.150345 
 bind - "setpos 1296.000000 -352.000000 -104.128754;setang -10.615869 -175.800873 0.000000";
 ```
 
-### dust II instant smoke to mid door from spawn
+### Dust II instant mid door smoke from T spawn
 ```
 ### dust II instant smoke to mid door from spawn
 bind 7 "setpos -493.000244 -808.000061 169.333374;setang -11.840409 87.792999 0.000000";
