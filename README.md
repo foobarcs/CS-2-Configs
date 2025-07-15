@@ -56,6 +56,7 @@
 | Text filtering - Quality | High performance |
 | Text filtering - Trilinear optimization | On |
 | Vertical sync | On |
+| Perofrm scaling on | Display |
 
 --- 
 [CS2 FPS BENCHMARK](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604)  
