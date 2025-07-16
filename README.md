@@ -108,7 +108,7 @@ Build ID: 16333861
 
 | ![stable frametime with HAGS, Game Bar and Game Mode OFF](https://i.ibb.co/SJTvbB1/HAGS-GAMEMODE-GAMEBAR-OFF.png) | 
 |:--:| 
-| *G-Sync: Enabled, VSync: Fast, NVCAP: 224 , Low Latency Mode: ON, fps_max 0, -noreflex in launch option <br> HAGS: Off and Game Mode: Off can delivered the highest 1% and 0.1%* |  
+| *G-Sync: Enabled, VSync: Fast, NVCAP: 224 , Low Latency Mode: ON, fps_max 0, -noreflex in launch option <br> HAGS: Off and Game Mode: Off can delivered the highest 1% and 0.1% on the rig i've tested on* |  
 
 
 
