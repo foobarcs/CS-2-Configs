@@ -9,7 +9,7 @@ bind - "setpos 1296.000000 -352.000000 -104.128754;setang -10.615869 -175.800873
 
 ### Mirage silent drop from window to lower mid (W + Shift + Jump)
 ```
-setpos -1247.968750 -704.924438 -104.128754;setang 34.964813 12.636477 0.000000
+setpos -1247.968750 -704.924438 -104.128754;setang 34.661087 12.535137 0.000000
 ```
 
 ### Dust II instant mid door smoke from T spawn
